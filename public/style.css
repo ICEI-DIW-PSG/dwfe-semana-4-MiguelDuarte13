@@ -1,3 +1,75 @@
-body {
-    background-color: aquamarine;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #222;
+  color: white;
+  padding: 15px;
+}
+
+.search-form input {
+  padding: 5px;
+}
+
+.search-form button {
+  padding: 6px;
+}
+
+.menu {
+  background-color: #444;
+}
+
+.menu ul {
+  display: flex;
+  list-style: none;
+  padding: 10px;
+}
+
+.menu ul li {
+  margin-right: 20px;
+  color: white;
+  cursor: pointer;
+}
+
+.main-content {
+  padding: 20px;
+}
+
+.banner img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.videos {
+  margin-bottom: 30px;
+}
+
+.video-grid {
+  display: flex;
+  gap: 15px;
+}
+
+.card {
+  background-color: #eee;
+  padding: 10px;
+  position: relative;
+}
+
+.video-grid .card img {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  position: relative;
 }

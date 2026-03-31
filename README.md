@@ -9,19 +9,20 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
+- Nome:Miguel Duarte Lopes 
+- Matricula:909425
+- Proposta de projeto escolhida:Nexoplay
 - Breve descrição sobre seu projeto:
+Este projeto consiste na criação de uma home-page para uma plataforma de vídeos, inspirada em serviços de streaming.
 
 
 ## Print do(s) wireframe(s) criado
 > Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar.
 
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Wireframe](/public/images/Wireframe.png)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Home Page](/public/images/homepage.png)
